@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33148" started-at="2020-01-20T22:30:31Z" finished-at="2020-01-20T22:31:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33148" started-at="2020-01-20T22:30:31Z" finished-at="2020-01-20T22:31:04Z">
+      <class name="servicensw.testCases.ServiceNSW">
+        <test-method status="PASS" signature="launch()[pri:0, instance:servicensw.testCases.ServiceNSW@573f2bb1]" name="launch" is-config="true" duration-ms="7302" started-at="2020-01-21T09:30:31Z" finished-at="2020-01-21T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="validateNavigationToApplyaNumberPlate()[pri:0, instance:servicensw.testCases.ServiceNSW@573f2bb1]" name="validateNavigationToApplyaNumberPlate" duration-ms="24915" started-at="2020-01-21T09:30:38Z" finished-at="2020-01-21T09:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNavigationToApplyaNumberPlate -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:servicensw.testCases.ServiceNSW@573f2bb1]" name="quit" is-config="true" duration-ms="905" started-at="2020-01-21T09:31:03Z" finished-at="2020-01-21T09:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- servicensw.testCases.ServiceNSW -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
